@@ -12,5 +12,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+      "no-extra-semi": "off",
+      "class-methods-use-this": "off"
     }
 }
